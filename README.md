@@ -10,7 +10,7 @@ This project demonstrates the implementation of various AI agents using the Goog
 
 ### 1. Basic Agent
 **Description:**
-A simple agent that answers questions concisely.
+A simple agent which answers questions concisely.
 
 **Code Snippet:**
 ```python
